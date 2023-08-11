@@ -13,4 +13,4 @@ The FPN in the network adopts the structure based on AFPN and adds new feature f
 # Training
 If you want to use ATC-YOLOv5 for training, please use the file **train-WF.py** (based on the modification of **train.py**, which can output the weight value of each weighted feature concat during training, so that it is convenient to observe the experimental effect. And it can also save all the weight values automatically at the end of training).
 
-Also,please configure your own path and other parameters before training, and the training operation is similar to the [original YOLOv5](https://github.com/ultralytics/yolov5).
+Also,please configure your own path and other parameters before training, and the **training operation is similar to the [original YOLOv5](https://github.com/ultralytics/yolov5)**.

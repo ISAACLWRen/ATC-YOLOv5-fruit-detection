@@ -19,5 +19,7 @@ Also,please configure your own path and other parameters before training, and th
 The project was tested on a self-made passion fruit dataset, and other users are welcome to apply it to their own datasets for testing. 
 The following are some of the results:
 
-MAP@0.5/% |F1/% |P/% |R/% |param/M |mean detection time/ms | GFLOPs
+| MAP@0.5/% | F1/% | P/% | R/% | param/M | mean detection time/ms | GFLOPs |
+|-----------|------|-----|-----|---------|------------------------|--------|
+|  95.36    |89.30 |87.88|90.76|   6.28  |         3.2            |   14.9 |
 

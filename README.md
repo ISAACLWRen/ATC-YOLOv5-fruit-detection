@@ -31,6 +31,12 @@ The main references for model modifications are as follows:
 
 https://github.com/leaderj1001/BottleneckTransformers
 
+https://github.com/houqb/CoordAttention
+
+https://github.com/google/automl/tree/master/efficientdet.
+
+https://github.com/gyyang23/AFPN
+
 
 
 

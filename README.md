@@ -26,7 +26,11 @@ The following are some of the results:
 
 ![test example](data/images/IMG_6887.jpg)
 
-# 
+# Reference
+The main references for model modifications are as follows:
+
+https://github.com/leaderj1001/BottleneckTransformers
+
 
 
 

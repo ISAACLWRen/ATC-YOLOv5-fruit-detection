@@ -4,7 +4,7 @@
 * The project was uploaded to github for the first time (previously running on a cloud server), so there may still be some refinements to be made, but its idea is mainly the model structure of ATC-YOLOv5.
 
 # YOLOv5
-All files are identical to the [original YOLOv5](https://github.com/ultralytics/yolov5), except for the necessary changes made when adding the modules.
+Except for the changes made when adding the improved modules and modifying the FPN structure, most of the rest of the files are identical to the [original YOLOv5](https://github.com/ultralytics/yolov5) version.
 
 # ATC-YOLOv5
 Model file: **yolov5s-AFPN-1-ALL.yaml**

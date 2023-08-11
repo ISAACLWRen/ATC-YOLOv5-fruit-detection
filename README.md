@@ -1,7 +1,8 @@
 # ATC-YOLOv5-fruit-detection
-* Modified YOLOv5 model for fruit detection(base on Ultralytics YOLOv5_v7.0)
+* Modified YOLOv5 model for fruit detection(base on Ultralytics YOLOv5_v7.0).
 * The main modifications collated/introduced are AFPN ( modified), Weighted feature concat (proposed in BiFPN), TRCSP ( modified obtained based on modules in BotNet), Coordinate Attention Mechanism.
 * The project was uploaded to github for the first time (previously running on a cloud server), so there may still be some refinements to be made, but its idea is mainly the model structure of ATC-YOLOv5.
+* 中文版本的说明将在后续进一步完善中更新。
 
 # YOLOv5
 Except for the changes made when adding the improved modules and modifying the FPN structure, most of the rest of the files are identical to the [original YOLOv5](https://github.com/ultralytics/yolov5) version.

@@ -1,0 +1,10 @@
+train: /root/autodl-tmp/_PaperWorkSpace/Project/Passion_fruit/Best_DataSet_Final/train
+val: /root/autodl-tmp/_PaperWorkSpace/Project/Passion_fruit/Best_DataSet_Final/val
+predict: /root/autodl-tmp/_PaperWorkSpace/Project/Passion_fruit/Best_DataSet_Final/val
+
+# Parameters list
+nc: 4  # number of classes
+
+
+#class names
+names: ['"Extra" Class', 'Class I', 'Class II', '"Bad" Class']

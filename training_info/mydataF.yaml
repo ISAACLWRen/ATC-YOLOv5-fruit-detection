@@ -1,0 +1,14 @@
+# if not <training locally>,the following path might need to be adjusted.
+#train: training_dataset/images/train
+#val: training_dataset/images/val
+train: /root/autodl-tmp/_PaperWorkSpace/Project/Dragon_fruit/finally_dataset_v11/dataset_AUG_rbgc/train
+val: /root/autodl-tmp/_PaperWorkSpace/Project/Dragon_fruit/finally_dataset_v11/dataset_AUG_rbgc/val
+test: /root/autodl-tmp/_PaperWorkSpace/Project/Dragon_fruit/finally_dataset_v11/dataset_AUG_rbgc/val
+
+
+# Parameters list
+nc: 5  # number of classes
+
+
+#class names
+names: ['Squaring', 'Flowering', 'Young_dragon_fruit', 'Expanding_dragon_fruit', 'Ripe_dragon_fruit']

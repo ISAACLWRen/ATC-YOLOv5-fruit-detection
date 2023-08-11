@@ -1,0 +1,10 @@
+train: /root/autodl-tmp/_PaperWorkSpace/Project/Passion_fruit/AUG_rbg/train_AUG_rbg
+val: /root/autodl-tmp/_PaperWorkSpace/Project/Passion_fruit/AUG_rbg/val
+predict: /root/autodl-tmp/_PaperWorkSpace/Project/Passion_fruit/AUG_rbg/val
+
+# Parameters list
+nc: 4  # number of classes
+
+
+#class names
+names: ['"Extra" Class', 'Class I', 'Class II', '"Bad" Class']
